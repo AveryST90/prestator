@@ -1,0 +1,9 @@
+{
+  "name": "expert-ro",
+  "version": "1.0.0",
+  "description": "Platforma de specialisti Expert.ro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
